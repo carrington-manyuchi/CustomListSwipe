@@ -11,6 +11,7 @@
 		E65501262C8A0D4C004DB187 /* ListSwipeActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65501252C8A0D4C004DB187 /* ListSwipeActions.swift */; };
 		E65501282C8A0D50004DB187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E65501272C8A0D50004DB187 /* Assets.xcassets */; };
 		E655012B2C8A0D50004DB187 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E655012A2C8A0D50004DB187 /* Preview Assets.xcassets */; };
+		E65501322C8A1536004DB187 /* BadgesOnSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65501312C8A1536004DB187 /* BadgesOnSwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E65501252C8A0D4C004DB187 /* ListSwipeActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActions.swift; sourceTree = "<group>"; };
 		E65501272C8A0D50004DB187 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E655012A2C8A0D50004DB187 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E65501312C8A1536004DB187 /* BadgesOnSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesOnSwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E65501232C8A0D4C004DB187 /* CustomListSwipeApp.swift */,
 				E65501252C8A0D4C004DB187 /* ListSwipeActions.swift */,
+				E65501312C8A1536004DB187 /* BadgesOnSwiftUI.swift */,
 				E65501272C8A0D50004DB187 /* Assets.xcassets */,
 				E65501292C8A0D50004DB187 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E65501322C8A1536004DB187 /* BadgesOnSwiftUI.swift in Sources */,
 				E65501262C8A0D4C004DB187 /* ListSwipeActions.swift in Sources */,
 				E65501242C8A0D4C004DB187 /* CustomListSwipeApp.swift in Sources */,
 			);
