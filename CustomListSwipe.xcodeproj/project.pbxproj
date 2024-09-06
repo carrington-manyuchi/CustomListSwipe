@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E606FA5F2C8AFC840078307D /* SubmitModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = E606FA5E2C8AFC840078307D /* SubmitModifier.swift */; };
 		E65501242C8A0D4C004DB187 /* CustomListSwipeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65501232C8A0D4C004DB187 /* CustomListSwipeApp.swift */; };
 		E65501262C8A0D4C004DB187 /* ListSwipeActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65501252C8A0D4C004DB187 /* ListSwipeActions.swift */; };
 		E65501282C8A0D50004DB187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E65501272C8A0D50004DB187 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E606FA5E2C8AFC840078307D /* SubmitModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitModifier.swift; sourceTree = "<group>"; };
 		E65501202C8A0D4C004DB187 /* CustomListSwipe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomListSwipe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E65501232C8A0D4C004DB187 /* CustomListSwipeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListSwipeApp.swift; sourceTree = "<group>"; };
 		E65501252C8A0D4C004DB187 /* ListSwipeActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActions.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E65501252C8A0D4C004DB187 /* ListSwipeActions.swift */,
 				E65501312C8A1536004DB187 /* BadgesOnSwiftUI.swift */,
 				E65501332C8A16E7004DB187 /* AtFocusStateInSwiftUI.swift */,
+				E606FA5E2C8AFC840078307D /* SubmitModifier.swift */,
 				E65501272C8A0D50004DB187 /* Assets.xcassets */,
 				E65501292C8A0D50004DB187 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				E65501322C8A1536004DB187 /* BadgesOnSwiftUI.swift in Sources */,
 				E65501262C8A0D4C004DB187 /* ListSwipeActions.swift in Sources */,
+				E606FA5F2C8AFC840078307D /* SubmitModifier.swift in Sources */,
 				E65501342C8A16E7004DB187 /* AtFocusStateInSwiftUI.swift in Sources */,
 				E65501242C8A0D4C004DB187 /* CustomListSwipeApp.swift in Sources */,
 			);
